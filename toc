@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="cloud-pak-security-saas" audience="software" category="security" href="/docs/cloud-pak-security-saas?topic=cloud-pak-security-saas#getting-started-saas" path="cloud-pak-security-saas"}
+{: .toc subcollection="cloud-pak-security-saas" audience="software" category="security" href="/docs/cloud-pak-security-saas?topic=cloud-pak-security-saas-getting-started-saas" path="cloud-pak-security-saas"}
 Cloud Pak for Security as a Service
 
     {: .navgroup id="learn"}
