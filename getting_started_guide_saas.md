@@ -51,7 +51,7 @@ For more information, see [IBM Documentation](https://www.ibm.com/support/knowle
 
 Before you can use IBM Cloud Pak® for Security as a Service, you must purchase a license. Purchase a license, also known as an entitlement, at [IBM Passport Advantage](https://www.ibm.com/software/passportadvantage/index.html){: external}.
 
-For more information, see [Licensing and entitlement](https://ibmdocs-test.mybluemix.net/docs/en/cloud-paks/cp-security/1.7.0?topic=planning-licensing){: external}.
+For more information, see [Licensing and entitlement](https://www.ibm.com/docs/en/cloud-paks/cp-security/1.7.0?topic=only-licensing){: external}.
 
 ## Getting started in SaaS
 When your IBM Cloud Pak® for SaaS deployment is available, you receive a Welcome email from IBM Security which contains important information, including a list of initially provisioned users and links to your IBM Verify and IBM Cloud Pak for SaaS deployment.
