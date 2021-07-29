@@ -3,7 +3,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-06-22"
+lastupdated: "2021-07-29"
 
 keywords: Cloud Pak for Security as a Service, SaaS
 
@@ -44,7 +44,7 @@ IBM Cloud Pak® for Security as a Service includes the following offerings.
 - IBM® Security Orchestration & Automation provides most of the IBM Resilient Security Orchestration, Automation, and Response Platform feature set. If you have an Orchestration & Automation license, you can choose between the stand-alone version on a virtual appliance, or the application on Cloud Pak for Security.
 - IBM® QRadar® Proxy provides communication between IBM Cloud Pak® for Security and IBM QRadar or QRadar on Cloud. This communication uses APIs to pull powerful IBM QRadar data into the QRadar Security Information and Event Management (SIEM) dashboards.
 
-For more information, see [IBM Documentation](https://www.ibm.com/support/knowledgecenter/SSTDPP_1.7.0/docs/scp-core/overview.html){: external}.
+For more information, see [IBM Documentation](https://www.ibm.com/docs/en/cloud-paks/cp-security/cloud){: external}.
 
 ## Purchasing a license
 {: #license-entitlement}
@@ -94,3 +94,5 @@ Users who are listed as provisioned in the Welcome email can create additional u
         **Tip:** You can create multiple users at the same time.
 
     1. Select the newly create user and assign permissions. For more information about permissions, see Adding or removing users.
+    
+For more information about Getting started in SaaS, see [Getting started](https://www.ibm.com/docs/en/cloud-paks/cp-security/cloud?topic=getting-started).{: external}
