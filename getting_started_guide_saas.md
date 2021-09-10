@@ -27,11 +27,6 @@ subcollection: cloud-pak-security-saas
 IBM Cloud Pak® for Security as a Service provides an open security platform that connects to your existing data sources to generate deeper insights and enable you to act faster with automation.
 {:shortdesc}
 
-IBM Cloud Pak® for Security as a Service documentation is included in the same documentation collection as IBM Cloud Pak® for Security on premises, and much of the content is applicable and relevant to both products.
-
-Because the IBM Cloud Pak® for Security as a Service deployment and accounts are managed by IBM Security, sections related to planning, installation, and deployment are not relevant to IBM Cloud Pak® for Security as a Service customers.
-{: important}
-
 By using open standards and IBM innovations, Cloud Pak® for Security as a Service can securely access IBM and third-party tools to search for threat indicators across any cloud or on-premises location. Connect your workflows with a unified interface so you can make better risk-based decisions and respond faster to security incidents. Use Cloud Pak® for Security as Service to orchestrate and automate your security response so that you can better prioritize your team's time.
 
 ## What's inside this Cloud Pak
@@ -95,4 +90,4 @@ Users who are listed as provisioned in the Welcome email can create additional u
 
     1. Select the newly create user and assign permissions. For more information about permissions, see Adding or removing users.
     
-For more information about Getting started in SaaS, see [Getting started](https://www.ibm.com/docs/en/cloud-paks/cp-security/cloud?topic=getting-started).{: external}
+For more information about Getting started in SaaS, see [Getting started](https://www.ibm.com/docs/en/cloud-paks/cp-security/cloud?topic=getting-started){: external}.
