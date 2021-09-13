@@ -3,7 +3,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-10-09"
+lastupdated: "2021-13-09"
 
 keywords: Cloud Pak for Security as a Service, SaaS
 
