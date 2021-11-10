@@ -3,7 +3,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-13-09"
+lastupdated: "2021-11-10"
 
 keywords: Cloud Pak for Security as a Service, SaaS
 
@@ -36,10 +36,10 @@ IBM Cloud Pak® for Security as a Service includes the following offerings.
 - IBM® Security Threat Intelligence Insights delivers unique, actionable, and timely threat intelligence. The application provides most of the functions of IBM X-Force® Exchange.
 - IBM® Security Data Explorer enables customers to do federated search and investigation across their hybrid, multi-cloud environment in a single interface and workflow.
 - IBM® Security Case Management for IBM Cloud Pak® for Security provides organizations with the ability to track, manage, and resolve cybersecurity incidents.
-- IBM® Security Orchestration & Automation provides most of the IBM Resilient Security Orchestration, Automation, and Response Platform feature set. If you have an Orchestration & Automation license, you can choose between the stand-alone version on a virtual appliance, or the application on Cloud Pak for Security.
+- IBM® Security Orchestration & Automation provides most of the IBM Security Orchestration, Automation, and Response Platform feature set. If you have an Orchestration & Automation license, you can choose between the stand-alone version on a virtual appliance, or the application on Cloud Pak for Security.
 - IBM® QRadar® Proxy provides communication between IBM Cloud Pak® for Security and IBM QRadar or QRadar on Cloud. This communication uses APIs to pull powerful IBM QRadar data into the QRadar Security Information and Event Management (SIEM) dashboards.
 
-For more information, see [IBM Documentation](https://www.ibm.com/docs/en/cloud-paks/cp-security/cloud){: external}.
+For more information, see [IBM Documentation](https://www.ibm.com/docs/en/cloud-paks/cp-security/saas){: external}.
 
 ## Purchasing a license
 {: #license-entitlement}
@@ -90,4 +90,4 @@ Users who are listed as provisioned in the Welcome email can create additional u
 
     1. Select the newly create user and assign permissions. For more information about permissions, see Adding or removing users.
     
-For more information about Getting started in SaaS, see [Getting started](https://www.ibm.com/docs/en/cloud-paks/cp-security/cloud?topic=getting-started){: external}.
+For more information about Getting started in SaaS, see [Getting started](https://www.ibm.com/docs/en/cloud-paks/cp-security/saas?topic=getting-started){: external}.
