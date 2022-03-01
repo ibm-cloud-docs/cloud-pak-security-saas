@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2021
-lastupdated: "2021-11-10"
+  years: 2022
+lastupdated: "2022-02-27"
 
 keywords: Cloud Pak for Security as a Service, SaaS
 
@@ -38,6 +38,9 @@ IBM Cloud Pak® for Security as a Service includes the following offerings.
 - IBM® Security Case Management for IBM Cloud Pak® for Security provides organizations with the ability to track, manage, and resolve cybersecurity incidents.
 - IBM® Security Orchestration & Automation provides most of the IBM Security Orchestration, Automation, and Response Platform feature set. If you have an Orchestration & Automation license, you can choose between the stand-alone version on a virtual appliance, or the application on Cloud Pak for Security.
 - IBM® QRadar® Proxy provides communication between IBM Cloud Pak® for Security and IBM QRadar or QRadar on Cloud. This communication uses APIs to pull powerful IBM QRadar data into the QRadar Security Information and Event Management (SIEM) dashboards.
+- IBM® Security Threat Investigator automatically analyzes and investigates cases to help you make more informed decisions.
+- IBM® Security Risk Manager provides early visibility into potential security risks by correlating insights from multiple vectors to help you prioritize remedial actions based on prescriptive recommendations.
+- Detection and Response Center (Beta) provides a unified overview of your organization's security posture through use cases from different security tools and platforms. 
 
 For more information, see [IBM Documentation](https://www.ibm.com/docs/en/cloud-paks/cp-security/saas){: external}.
 
